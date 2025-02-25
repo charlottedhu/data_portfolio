@@ -1,18 +1,18 @@
 # Data Analyst
 
 ### Main technical skills: 
-**- Languages:** SQL, Python (Numpy, Pandas, Matplotlib, Plotly, Requests, Scikit_learn)
-**- Data wharehousing:** BigQuery
-**- Data viz:** Looker Studio, PowerBI, Tableau
-**- Versioning:** DBT, Git
-**- ELT:** FiveTran
-**- Analytics:** Google Analytics 4, DataMa
-**- Web tracking:** Google Tag Manager
-**- Web UX/UI:** AB Tasty, ContentSquare
+- **Languages:** SQL, Python (Numpy, Pandas, Matplotlib, Plotly, Requests, Scikit_learn)
+- **Data wharehousing:** BigQuery
+- **Data viz:** Looker Studio, PowerBI, Tableau
+- **Versioning:** DBT, Git
+- **ELT:** FiveTran
+- **Analytics:** Google Analytics 4, DataMa
+- **Web tracking:** Google Tag Manager
+- **Web UX/UI:** AB Tasty, ContentSquare
 
 ### Work Experience
 
-[See LinkedIn full profile page] (https://www.linkedin.com/in/charlotte-d-huart-2344994b/)
+[See LinkedIn full profile page](https://www.linkedin.com/in/charlotte-d-huart-2344994b/)
 
 **Head of Digital Analytics @Pierre & Vacances - Center Parcs Group (_August 2021 - December 2023_)**
 - Managed 4 to 6 people & organized team work
